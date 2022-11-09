@@ -1,7 +1,7 @@
 # pyp5js gameboards
 ## A [repo](https://github.com/villares/pyp5js-gameboards) with examples for using pyp5js to make simple games
 
-[pyp5js](https://berinhard.github.io) is a wonderful project that combines Python in your browser (with pyodide) and the drawing infrastructure of [p5js.org](https://p5js.org), you chan check the [online demo editor here](https://abav.lugaralgum.com/pyp5js/pyodide/). The drawing function and global variable names are mostly those of *p5js*, but now `function setup(){}` & `function draw(){}` become `def setup():` & `def draw():`, because, well, we love Python!
+[pyp5js](https://berinhard.github.io) is a wonderful project that combines Python in your browser (with pyodide) and the drawing infrastructure of [p5js.org](https://p5js.org), you chan check the [online demo editor here](https://abav.lugaralgum.com/pyp5js/pyodide/). The drawing function names and global variable names are mostly those of *p5js*, but `function setup(){}` & `function draw(){}` become `def setup():` & `def draw():`, because, well, we love Python!
 
 This repository collects code examples for using *pyp5js* to teach and to play simple board games. If you make one, feel free to make a Pull Request. I ask everyone to abstain from submiting materials unsuitable for children, as we'd like this repository to be used for teaching.
 
