@@ -5,7 +5,7 @@
 
 This repository collects code examples for using *pyp5js* to teach and to play simple board games. If you make one, feel free to make a Pull Request. I ask everyone to abstain from submiting materials unsuitable for children, as we'd like this repository to be used for teaching.
 
-> If you enjoy this you can [make a small donation](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724) to support my work! ([Alexandre B A Villares](https://abav.lugaralgum.com))
+> If you enjoy this you can [make a small donation](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724) to support my work!
 
 ## A chess set with emojis
 
